@@ -1,0 +1,11 @@
+body {
+	background-image: url(pic/wallpaper.jpg);
+	background-size: cover;
+}
+
+#game {
+	background-color: white;
+    display: block;
+    margin: 1em auto;
+    border: 1px solid black;
+}
