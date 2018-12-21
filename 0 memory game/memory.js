@@ -87,7 +87,6 @@ function init() {
 		};
 	
 		function showBack(){
-			//kek = true;
 			//console.log('show back',c );
 			if (c.rotation == 1){
 				c.rotation = 0;
